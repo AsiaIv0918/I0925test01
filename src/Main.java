@@ -1,5 +1,5 @@
 import java.util.Scanner; //這行要打 才有Scanner
-
+                          //import java.util.* 為全加
  public class Main {
 
     public static void main(String[] args) {

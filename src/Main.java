@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //這行要打 才有Scanner
 
  public class Main {
 
